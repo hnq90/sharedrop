@@ -1,2 +1,2 @@
-https://github.com/heroku/heroku-buildpack-nodejs.git#v56
-https://github.com/heroku/heroku-buildpack-ruby.git#v93
+https://github.com/heroku/heroku-buildpack-nodejs.git
+https://github.com/szimek/heroku-buildpack-ember-cli-without-webserver.git
